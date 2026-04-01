@@ -20,9 +20,7 @@ This repository contains implementations of fundamental quantum computing algori
 - Creation of entangled states (Bell states)  
 - Demonstrates non-classical correlations between qubits
 
-### 5. Statevector Probability Calculation
-- Computation of measurement probabilities from quantum statevectors  
-- Analysis of quantum states using Qiskit tools  
+
 
 ## Tools & Technologies
 - Python  
