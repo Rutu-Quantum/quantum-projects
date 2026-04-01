@@ -25,4 +25,4 @@ This repository contains implementations of fundamental quantum computing algori
 ## Tools & Technologies
 - Python  
 - Qiskit  
-- Google Colab
+- Google Colab/Jupyter notebook
